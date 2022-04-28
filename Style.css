@@ -1,5 +1,5 @@
 body{
-background-color: #FFFFFF;
+background-color: white;
 margin: 0 auto;
 }
 b{ 
@@ -37,4 +37,14 @@ text-decoration: none;
 position: absolute;
 left: 400px;
 }
-
+#Forum{
+font-size: 30px;
+position: absolute;
+bottom: 0;
+}
+#Forum a:hover {
+color: #0066FF;
+}
+#For{
+color: #9932cc
+}

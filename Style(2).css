@@ -8,3 +8,19 @@ table{ background-color: #68C0FF;
 width: 100%;
 text-align: left;
 } 
+.MenuLateral{
+position: absolute;
+right: 0;
+background-color: #C1EDFF;
+width:300px;
+height:90vh;
+text-align:center;
+}
+#un{
+color: #0066FF;
+position: absolute;
+top: 0;
+margin-left: 0;
+font-size: 22px;
+text-decoration: underline;
+}
