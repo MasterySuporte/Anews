@@ -1,0 +1,40 @@
+body{
+background-color: #FFFFFF;
+margin: 0 auto;
+}
+b{ 
+color: purple 
+}
+#nav{ background-color: #68C0FF; 
+width: 100%;
+text-align: left;
+} 
+.MenuLateral{ 
+position: absolute;
+right: 0;
+background-color: #C1EDFF;
+width:300px;
+height:90vh;
+text-align:center;
+
+}
+#un{
+color: #0066FF;
+position: absolute;
+top: 0;
+margin-left: 80px;
+font-size: 22px;
+text-decoration: underline;
+}
+.MenuLateral a:hover {
+color: #2F4F4F;
+}
+.MenuLateral a{
+color: #000000;
+text-decoration: none;
+}
+#Roubei{
+position: absolute;
+left: 400px;
+}
+
