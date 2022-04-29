@@ -16,6 +16,13 @@ width:300px;
 height:90vh;
 text-align:center;
 }
+.MenuLateral a:hover {
+color: #2F4F4F;
+}
+.MenuLateral a{
+color: #000000;
+text-decoration: none;
+}
 #un{
 color: #0066FF;
 position: absolute;
@@ -24,17 +31,27 @@ margin-left: 60px;
 font-size: 22px;
 text-decoration: underline;
 }
-.coluna{
-margin-left: 0;
-}
-h4{
+h2{
 color: purple;
 font-size: 22px;
 text-decoration: underline;
 }
-.g a:hover {
+#gg a:hover {
 color: #2F4F4F;
-}
-.g a{
+} 
+#gg a{
 color: #000000;
 }
+#Gp{
+position: absolute;
+bottom: 0; 
+background-color: white;
+font-size: 30px;
+color: purple;
+text-decoration: underline;
+}
+#Login{
+font-size: 15px;
+color: red;
+}
+
